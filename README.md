@@ -12,8 +12,8 @@
 Сделанный проект залить в свой репозиторий на GitHub.
 
 Используемые библиотеки:
-jakarta.servlet version 5.0.0
-org.projectlombok version 11.18.28
-jakarta.servlet.jsp.jstl version 2.0.0
-org.glassfish.web version 2.0.0
-org.junit.jupiter version 5.10.0
+jakarta.servlet version 5.0.0/
+org.projectlombok version 11.18.28/
+jakarta.servlet.jsp.jstl version 2.0.0/
+org.glassfish.web version 2.0.0/
+org.junit.jupiter version 5.10.0.
